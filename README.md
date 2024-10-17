@@ -1,4 +1,4 @@
-# MultiModal001-CLIP
+# MultiModal001_CLIP
 MultiModal001: CLIP using pytorch
 
 ## 使用说明
